@@ -1,0 +1,3 @@
+,latitude,longitude,average_speed,highway_type,has_bridge,has_cutting,has_tunnel,has_hospital,has_barrier,is_aeroway
+0,39.924356,116.396132,64.6850594227502,2.0,0.0,0.0,0.0,0.0,0.0,0.0
+1,39.936603,116.38616,0.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0
